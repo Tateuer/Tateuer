@@ -20,6 +20,13 @@ En el bootcamp de henry aprende tanto front-end como back-end y base de datos, e
 en las cuales mas me destaco:
 | JavaScript | HTML | CSS | React | Redux | NodeJs | Chakra UI | SQL | Sequelize | Express |
 
+Sobre mi
+oy una persona proactiva, con facilidad tanto para la utilización de herramientas informáticas.Este ultimo tiempo termine el
+bootcamp de "SoyHenry" el cual me capacitó con las mas actualizadas tecnologias y me da gussto
+decir que soy un desarrollador full stack! Me desenvuelvo de manera efectiva  frente a otras personas. 
+Estoy dispuesto a trabajar de manera individual o en equipo, abierto a capacitarme en lo necesario y brindar lo mejor de mi 
+persona para cumplir con los objetivos.
+
 No dudes en contactarme!
 
 Mail: tateuer@gmail.com
